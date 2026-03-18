@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "base_url": "https://raw.githubusercontent.com/AstroOrbit-Labs/orbit-shield/main",
+ "base_url": "https://orbit-shield-releases.pages.dev",
   "shield": {
     "files": [
       "manifest.json",
